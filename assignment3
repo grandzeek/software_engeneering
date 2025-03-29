@@ -1,0 +1,57 @@
+
+### 1. **Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?**  
+   - Timely delivery ensures customer satisfaction, prevents cost overruns, and maintains the company’s reputation.  
+   - Project managers can ensure deadlines are met by:  
+     - **Setting realistic timelines** based on project complexity.  
+     - **Using Agile methodologies** for incremental progress.  
+     - **Regular progress tracking** with tools like Jira or Trello.  
+     - **Identifying risks early** and implementing mitigation plans.  
+
+### 2. **How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?**  
+   - Cost control ensures financial sustainability and prevents unexpected funding shortages.  
+   - Strategies to prevent overruns include:  
+     - **Accurate project estimation** (using historical data & expert judgment).  
+     - **Continuous budget tracking** with software like MS Project.  
+     - **Prioritizing key features** to avoid unnecessary expenses.  
+     - **Risk assessment & contingency planning** for unforeseen costs.  
+
+### 3. **Compare and contrast Agile and Waterfall methodologies.**  
+   - **Agile:** Iterative, flexible, involves constant feedback. Best for evolving requirements.  
+   - **Waterfall:** Sequential, structured, best for well-defined projects.  
+   - **Pros & Cons:**  
+     - **Agile Pros:** Quick adaptability, continuous feedback.  
+     - **Agile Cons:** Harder to predict costs & timelines.  
+     - **Waterfall Pros:** Clear structure, good for fixed-scope projects.  
+     - **Waterfall Cons:** Less flexibility, slow adaptation to changes.  
+
+### 4. **When is Agile better than Waterfall, and vice versa?**  
+   - **Agile:** Best for dynamic projects like mobile apps or SaaS products (e.g., a social media platform).  
+   - **Waterfall:** Ideal for well-defined projects like banking software or government systems where strict regulations apply.  
+
+### 5. **Methods for ensuring quality assurance (QA) in software projects:**  
+   - **Automated testing** (unit, integration, regression).  
+   - **Manual testing** (user acceptance, exploratory).  
+   - **Code reviews & pair programming** for quality coding.  
+   - **Continuous Integration (CI)** for frequent builds and testing.  
+   - **QA ensures** fewer bugs, higher user satisfaction, and compliance with standards.  
+
+### 6. **How does defining the project scope contribute to success? What is a Work Breakdown Structure (WBS)?**  
+   - **Project scope** prevents scope creep and aligns expectations.  
+   - **WBS** breaks the project into manageable components, ensuring clear task delegation and progress tracking.  
+
+### 7. **Benefits of a detailed project schedule & Gantt charts:**  
+   - Helps in **time management**, identifying dependencies, and tracking milestones.  
+   - **Gantt charts** visualize timelines, showing task durations and overlaps.  
+
+### 8-9. **Core issues your software aims to address & importance of problem definition:**  
+   - Clearly defining the problem helps in **solution alignment** and reduces unnecessary features.  
+   - Example: If users struggle with document collaboration, focus on **real-time editing & version control** instead of adding unrelated features.  
+
+### 10-11. **How to describe a software solution & what makes it stand out?**  
+   - **Non-technical pitch:** “A platform that enables teams to collaborate on documents in real-time, eliminating version confusion.”  
+   - **Standout features:** Unique UX, AI-driven assistance, seamless integrations.  
+
+### 12-13. **Market size, growth potential & trends:**  
+   - **Research market demand** (e.g., growing need for remote collaboration tools).  
+   - **Competitor analysis** helps position your software strategically.  
+   - **Trends (e.g., AI, cloud computing)** guide feature development.  
